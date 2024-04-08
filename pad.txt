@@ -1,0 +1,12 @@
+Application
+Presentation
+Session
+Transport
+Network
+Data link
+Physical (Ethernet Ports)
+
+The loopback addr: Like the machine that I am running rn
+
+IPv6: ::1
+IPv4: 127.0.0.1
